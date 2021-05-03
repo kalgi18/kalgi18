@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there! I am Kalgi 👋
 
 <!--
 **kalgi18/kalgi18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- I’m an aspiring Software Developer and Web Developer. ⚡
+- I love programming, math, and reading books. 😄
+- I’m addicted to learning and growing everyday. 🌱
+- I’m currently building a strong foundation in Data Structures and Algorithms. 😇
+
+To know more about me or to connect, reach out:
+- :office: [LinkedIn] (https://www.linkedin.com/in/kalgi-shah/)
+- [Mail] (kalgirshah@gmail.com)📧
+
