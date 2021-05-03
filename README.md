@@ -9,6 +9,6 @@
 - I’m currently building a strong foundation in Data Structures and Algorithms. 😇
 
 To know more about me or to connect, reach out:
-- [LinkedIn](https://www.linkedin.com/in/kalgi-shah/):office:
+- [LinkedIn](https://www.linkedin.com/in/kalgi-shah/)📇
 - [Mail](mailto:kalgirshah@gmail.com)📧
 
