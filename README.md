@@ -1,14 +1,12 @@
-### Hi there! I am Kalgi 👋
+### Hi there 👋 I am Kalgi
 
-<!--
-**kalgi18/kalgi18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-- I’m an aspiring Software Developer and Web Developer. ⚡
-- I love programming, math, and reading books. 😄
-- I’m addicted to learning and growing everyday. 🌱
-- I’m currently building a strong foundation in Data Structures and Algorithms. 😇
+I am a Software Developer and MSCS student at Arizona State University, focused on building scalable and intelligent applications.  
+I enjoy working with Java, Python, React, Spring Boot, and AWS — exploring how AI and cloud technologies can shape the future of software.  
 
-To know more about me or to connect, reach out:
-- [LinkedIn](https://www.linkedin.com/in/kalgi-shah/)📇
-- [Mail](mailto:kalgirshah@gmail.com)📧
+🌱 Currently learning advanced system design and large-scale data engineering.  
+
+**Let’s connect:**  
+💼 [LinkedIn](https://www.linkedin.com/in/kalgi-shah/)  
+🌐 [Portfolio](https://kalgi-shah.vercel.app)  
+📧 kalgirshah18@gmail.com
 
